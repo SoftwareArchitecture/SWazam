@@ -8,6 +8,7 @@
     <name>Common</name>
  
     <modules>
+         <module>../Common</module>  
         <module>../Client</module>  
         <module>../Peer</module>
         <module>../Server</module>
